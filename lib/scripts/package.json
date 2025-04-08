@@ -1,0 +1,16 @@
+{
+    "name": "docpilot-scripts",
+    "version": "1.0.0",
+    "private": true,
+    "dependencies": {
+        "node-forge": "^1.3.1"
+    },
+    "main": "generate_certificate.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": ""
+}
