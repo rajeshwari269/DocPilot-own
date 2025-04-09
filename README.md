@@ -9,6 +9,10 @@ DocPilot aims to overcome the limitations of traditional Electronic Medical Reco
 - 🤖 Google Gemini API (gen-ai)
 - 🗣️ Deepgram’s `nova-3-medical` model API (leading  in medical transcription, speech-to-text)
 
+## 🎨 Design Prototype
+
+Check out our app's interface on Figma: [Figma Design Link](https://www.figma.com/design/pD32RZaskUitWMr7nv8nfy/DocPilot?node-id=0-1&t=YoRZ8aAP355lRChq-1)
+
 ### 🛠️ Setup Instructions
 Our detailed step-by-step guide will help you get up and running:
 
