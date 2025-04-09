@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'pdf_sign_screen.dart';
+
+import 'presentation/screens/home_screen.dart';
 
 void main() {
   // Initialize Flutter binding to ensure plugins are properly registered
@@ -19,7 +20,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home: const PdfSignScreen(),
+      home: const HomeScreen(),
     );
   }
 }
