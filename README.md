@@ -1,5 +1,5 @@
 <div align="center">
-# 🩺 DocPilot - A next-gen EMR App
+<h1> 🩺 DocPilot - A Next Gen EMR App </h1>
 </div>
 
 ![](docs/assets/demo.gif)
@@ -16,6 +16,7 @@ DocPilot aims to overcome the limitations of traditional Electronic Medical Reco
 ##  App Preview
 
 <div align="center">
+  
 | Dashboard | Calendar | Manage Patient |
 | :---         |     :---      |          :--- |
 | <img src= "https://github.com/user-attachments/assets/4f461c03-692a-4657-9deb-099e6c7e8395" width="250" height="auto" />  | <img src="https://github.com/user-attachments/assets/1bfcd307-dc0b-4b13-a90e-70447a61e016" width="250" height="auto" />    | <img src="https://github.com/user-attachments/assets/7f97d944-0976-47fd-8a30-480ced123a1c" width="250" height="auto" />    |
@@ -30,7 +31,6 @@ DocPilot aims to overcome the limitations of traditional Electronic Medical Reco
 </div>
 
 ## 🎨 Design Prototype
-
 Check out our app's interface on Figma: [Figma Design Link](https://www.figma.com/design/pD32RZaskUitWMr7nv8nfy/DocPilot?node-id=0-1&t=YoRZ8aAP355lRChq-1)
 
 ## Folder Structure
