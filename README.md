@@ -2,7 +2,7 @@
 # 🩺 DocPilot - A next-gen EMR App
 </div>
 
-![](docs/assets/demo.gif)
+![](docs/assets/docpilot_preview.gif)
 
 DocPilot aims to overcome the limitations of traditional Electronic Medical Record (EMR) systems, which are frequently cumbersome, costly, and challenging for healthcare providers to navigate. By utilizing advanced AI for transcription and data extraction, DocPilot eliminates the need for manual data entry, streamlining record management and enhancing data accuracy. This innovative approach addresses the inefficiencies of conventional EMR systems, promoting a more effective healthcare delivery system. 
 
