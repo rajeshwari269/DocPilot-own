@@ -1,8 +1,8 @@
 <div align="center">
-  <h1>DocPilot</h1>
+# 🩺 DocPilot - A next-gen EMR App
 </div>
 
-![](assets/demo.gif)
+![](docs/assets/demo.gif)
 
 DocPilot aims to overcome the limitations of traditional Electronic Medical Record (EMR) systems, which are frequently cumbersome, costly, and challenging for healthcare providers to navigate. By utilizing advanced AI for transcription and data extraction, DocPilot eliminates the need for manual data entry, streamlining record management and enhancing data accuracy. This innovative approach addresses the inefficiencies of conventional EMR systems, promoting a more effective healthcare delivery system. 
 
@@ -13,13 +13,29 @@ DocPilot aims to overcome the limitations of traditional Electronic Medical Reco
 - 🤖 Google Gemini API (gen-ai)
 - 🗣️ Deepgram’s `nova-3-medical` model API (leading  in medical transcription, speech-to-text)
 
+##  App Preview
+
+<div align="center">
+| Dashboard | Calendar | Manage Patient |
+| :---         |     :---      |          :--- |
+| <img src= "https://github.com/user-attachments/assets/4f461c03-692a-4657-9deb-099e6c7e8395" width="250" height="auto" />  | <img src="https://github.com/user-attachments/assets/1bfcd307-dc0b-4b13-a90e-70447a61e016" width="250" height="auto" />    | <img src="https://github.com/user-attachments/assets/7f97d944-0976-47fd-8a30-480ced123a1c" width="250" height="auto" />    |
+
+| Patients | Prescribe | Generated Prescription |
+| :---         |     :---      |          :--- |
+|  <img src="https://github.com/user-attachments/assets/e173dc6d-cdbe-4754-8002-d6fb81747c85" width="250" height="auto" /> | <img src="https://github.com/user-attachments/assets/0483d5bf-65f0-407f-9570-e86df91a7776" width="250" height="auto" />   |  <img src="https://github.com/user-attachments/assets/0bbf2b0e-a809-41c3-a542-749a656a5a99" width="250" height="auto"/>    |
+
+| Login Screen (Doctor) | Confirmation Code Screen | Login Screen (Patient) |
+| :---         |     :---      |          :--- |
+|  <img src="https://github.com/user-attachments/assets/c96e7a74-916e-4663-8b44-f809461d4e15" width="250" height="auto" /> | <img src="https://github.com/user-attachments/assets/0bbf2b0e-a809-41c3-a542-749a656a5a99" width="250" height="auto" />   |  <img src="https://github.com/user-attachments/assets/26b93a0d-e17d-4a0c-98cd-190f6279da76" width="250" height="auto"/>    |
+</div>
+
 ## 🎨 Design Prototype
 
 Check out our app's interface on Figma: [Figma Design Link](https://www.figma.com/design/pD32RZaskUitWMr7nv8nfy/DocPilot?node-id=0-1&t=YoRZ8aAP355lRChq-1)
 
 ## Folder Structure
 
-A brief overview of the folder structure is definate in
+A brief overview of the folder structure is defined in
 
 - [Folder Structure](./Docs/FOLDER_STRUCTURE.md)
 
