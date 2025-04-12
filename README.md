@@ -37,12 +37,12 @@ Check out our app's interface on Figma: [Figma Design Link](https://www.figma.co
 
 A brief overview of the folder structure is defined in
 
-- [Folder Structure](./Docs/FOLDER_STRUCTURE.md)
+- [Folder Structure](./docs/FOLDER_STRUCTURE.md)
 
 ## 🛠️ Setup Instructions
 Our detailed step-by-step guide will help you get up and running:
 
-- 📄 [Setup Process](./Docs/SETUP.md)
+- 📄 [Setup Process](./docs/SETUP.md)
 
 ## ❓ How does DocPilot solve the problem?
 
