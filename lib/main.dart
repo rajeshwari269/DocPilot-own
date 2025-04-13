@@ -1,26 +1,25 @@
 import 'package:flutter/material.dart';
 
-import 'presentation/screens/home_screen.dart';
+import 'core/routes/app_routes.dart';
 
 void main() {
-  // Initialize Flutter binding to ensure plugins are properly registered
   WidgetsFlutterBinding.ensureInitialized();
-
-  runApp(const MyApp());
+  runApp(const MainApp());
 }
 
-class MyApp extends StatelessWidget {
-  const MyApp({super.key});
+class MainApp extends StatelessWidget {
+  const MainApp({super.key});
 
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
+    final router = AppRouter();
+    return MaterialApp.router(
       title: 'DocPilot',
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home: const HomeScreen(),
+      routerConfig: router.config(),
     );
   }
 }
