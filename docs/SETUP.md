@@ -29,8 +29,13 @@ Follow these steps to set up and run the app:
 
 ## Running the App ▶️
 
-1. Connect your device or start an emulator. 🔌
-2. Run the app using the following command: 🏃
+1. Generate required files: 🛠️
+   ```bash
+   flutter pub run build_runner build --delete-conflicting-outputs
+   ```
+   ✅ This command generates necessary files for the app to run properly.
+2. Connect your device or start an emulator. 🔌
+3. Run the app using the following command: 🏃
    ```bash
    flutter run
    ```
