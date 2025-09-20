@@ -1,4 +1,4 @@
-<div align="center">
+
 <h1> 🩺 DocPilot - A Next Gen EMR App </h1>
 </div>
 
