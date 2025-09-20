@@ -1,6 +1,7 @@
 
 <h1> 🩺 DocPilot - A Next Gen EMR App </h1>
 </div>
+aossie.org/ideas/2025/docPilot
 
 ![](docs/assets/docpilot_preview.gif)
 
